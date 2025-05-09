@@ -1,0 +1,101 @@
+id,Country,Capitol
+1,Russia,Moscow
+2,Canada,Ottawa
+3,United States,Washington
+4,China,Beijing
+5,Brazil,Brasilia
+6,Australia,Canberra
+7,India,New Delhi
+8,Argentina,Buenos Aires
+9,Kazakhstan,Nur-Sultan
+10,Algeria,Algiers
+11,Democratic Republic of the Congo,Kinshasa
+12,Saudi Arabia,Riyadh
+13,Mexico,Mexico City
+14,Indonesia,Jakarta
+15,Sudan,Khartoum
+16,Libya,Tripoli
+17,Iran,Tehran
+18,Mongolia,Ulaanbaatar
+19,Peru,Lima
+20,Chad,N'Djamena
+21,Niger,Niamey
+22,Angola,Luanda
+23,Mali,Bamako
+24,South Africa,Pretoria
+25,Colombia,Bogota
+26,Ethiopia,Addis Ababa
+27,Bolivia,La Paz
+28,Mauritania,Nouakchott
+29,Egypt,Cairo
+30,Tanzania,Dodoma
+31,Nigeria,Abuja
+32,Venezuela,Caracas
+33,Pakistan,Islamabad
+34,Namibia,Windhoek
+35,Mozambique,Maputo
+36,Turkey,Ankara
+37,Chile,Santiago
+38,Zambia,Lusaka
+39,Myanmar,Naypyidaw
+40,Afghanistan,Kabul
+41,South Sudan,Juba
+42,Somalia,Mogadishu
+43,Central African Republic,Bangui
+44,Ukraine,Kyiv
+45,Madagascar,Antananarivo
+46,Botswana,Gaborone
+47,Kenya,Nairobi
+48,France,Paris
+49,Yemen,Sana'a
+50,Thailand,Bangkok
+51,Spain,Madrid
+52,Turkmenistan,Ashgabat
+53,Cameroon,Yaoundé
+54,Papua New Guinea,Port Moresby
+55,Sweden,Stockholm
+56,Uzbekistan,Tashkent
+57,Morocco,Rabat
+58,Iraq,Baghdad
+59,Paraguay,Asunción
+60,Zimbabwe,Harare
+61,Norway,Oslo
+62,Japan,Tokyo
+63,Germany,Berlin
+64,Finland,Helsinki
+65,Vietnam,Hanoi
+66,Malaysia,Kuala Lumpur
+67,Côte d'Ivoire,Yamoussoukro
+68,Poland,Warsaw
+69,Oman,Muscat
+70,Italy,Rome
+71,Philippines,Manila
+72,Ecuador,Quito
+73,Burkina Faso,Ouagadougou
+74,New Zealand,Wellington
+75,Gabon,Libreville
+76,Guinea,Conakry
+77,United Kingdom,London
+78,Uganda,Kampala
+79,Ghana,Accra
+80,Romania,Bucharest
+81,Laos,Vientiane
+82,Guyana,Georgetown
+83,Belarus,Minsk
+84,Kyrgyzstan,Bishkek
+85,Senegal,Dakar
+86,Syria,Damascus
+87,Cambodia,Phnom Penh
+88,Uruguay,Montevideo
+89,Tunisia,Tunis
+90,Suriname,Paramaribo
+91,Bangladesh,Dhaka
+92,Nepal,Kathmandu
+93,Tajikistan,Dushanbe
+94,Greece,Athens
+95,Nicaragua,Managua
+96,North Korea,Pyongyang
+97,Malawi,Lilongwe
+98,Eritrea,Asmara
+99,Benin,Porto-Novo
+100,Honduras,Tegucigalpa

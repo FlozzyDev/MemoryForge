@@ -1,0 +1,29 @@
+PairID,DataType,Description
+1,Array,Ordered collection of elements with constant-time access by index
+2,LinkedList,Linear collection where each element points to the next one
+3,Stack,LIFO (Last In First Out) data structure
+4,Queue,FIFO (First In First Out) data structure
+5,HashMap/Dictionary,Collection of key-value pairs with O(1) lookup
+6,HashSet,Collection of unique elements with O(1) lookup
+7,Tree,Hierarchical structure with a root node and child nodes
+8,Binary Tree,Tree where each node has at most two children
+9,BST,Binary Search Tree - left children < parent < right children
+10,Heap,Complete binary tree where parent has priority over children
+11,Graph,Collection of nodes connected by edges
+12,Trie,Tree-like structure for storing strings with common prefixes
+13,Deque,Double-ended queue allowing insertion and removal from both ends
+14,Priority Queue,Queue where elements have priority values
+15,MultiSet/Bag,Like a set but allows duplicate elements
+16,OrderedDict/SortedDictionary,Dictionary that maintains insertion order or sorting
+17,Bloom Filter,Probabilistic data structure for membership testing
+18,Skip List,Probabilistic alternative to balanced trees with O(log n) operations
+19,B-Tree,Self-balancing tree optimized for storage systems and databases
+20,Red-Black Tree,Self-balancing binary search tree
+21,AVL Tree,Strictly balanced BST where heights differ by at most 1
+22,Disjoint Set/Union-Find,Data structure for tracking elements partitioned into sets
+23,Segment Tree,Tree data structure for interval queries
+24,Fenwick Tree/BIT,Data structure for efficient prefix sums
+25,Sparse Table,Data structure for range queries
+26,Suffix Tree/Array,String indexing structures for pattern matching
+27,LRU Cache,Limited size cache that evicts least recently used items
+28,Immutable Collections,Persistent data structures that preserve previous versions
