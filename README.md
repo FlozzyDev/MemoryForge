@@ -22,8 +22,6 @@ For this project I decided to use C# along with a very fun open source developme
 
 # Future Work
 
-{Make a list of things that you need to fix, improve, and add in the future.}
-
 - Add additional Datasets
 - Add additional game types, such as speed tests and different memory formats (maps or fill in the blank)
 - Provide users with a format they can then fill out and upload as a dataset
