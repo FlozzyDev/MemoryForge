@@ -4,8 +4,6 @@ MemoryForge is a C# application that allows users to import datasets that they c
 
 I chose to make MemoryForge as I had a variety of information I wanted to memorize, but I couldn't find many tools that I found useful. I found that I enjoyed this game method when using a similar application on Quizzlet, but I did not like the flow of the game. So I decided to make my own!
 
-{Provide a link to your YouTube demonstration. It should be a 4-5 minute demo of the software running and a walkthrough of the code. Focus should be on sharing what you learned about the language syntax.}
-
 [Memory Forge Video](https://www.youtube.com/watch?v=tUT6BvJYvjo)
 
 # Development Environment
